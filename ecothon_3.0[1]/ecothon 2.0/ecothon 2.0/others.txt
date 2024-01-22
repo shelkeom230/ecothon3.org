@@ -1,0 +1,26 @@
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-box orange">
+              <i class="ri-leaf-line icon"></i>
+              <h3>Internet of things</h3>
+              <!-- <p>Do you want to become a partner of this challenge?</p> -->
+              <!-- <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a> -->
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-box green">
+              <i class="ri-leaf-line icon"></i>
+              <h3>Blockchain</h3>
+              <!-- <p>Do you want to become a partner of this challenge?</p> -->
+              <!-- <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a> -->
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+            <div class="service-box red">
+              <i class="ri-leaf-line icon"></i>
+              <h3>Machine Learning / Artificial Intelligence</h3>
+              <!-- <p>Do you want to become a partner of this challenge?</p> -->
+              <!-- <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a> -->
+            </div>
+          </div>
